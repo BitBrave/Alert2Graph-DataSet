@@ -60,7 +60,7 @@ print(len(ip_nodes), len(alert_nodes), len(ip_to_alert_edges))
 | Dataset | Snapshot JSON Files | Anonymized IPv4 Count | Private IPv4 Prefix |
 | --- | ---: | ---: | --- |
 | SOC1_Demo | 120 | 3865 | `10.1.0.0/16` |
-| SOC2_Demo | 141 | 39128 | `10.2.0.0/16` |
+| SOC2_Demo | 119 | 2782 | `10.2.0.0/16` |
 
 ## Anonymization
 
