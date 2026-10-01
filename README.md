@@ -86,3 +86,7 @@ These demo datasets are intended for:
 - This repository contains demo data only.
 - The datasets are anonymized and do not include raw address mappings.
 - If you use this dataset in a publication or project, please cite or link to this repository.
+
+## Requesting Additional Data
+
+If you need additional data beyond the demo datasets provided in this repository, please email [xiejiang@zgclab.edu.cn](mailto:xiejiang@zgclab.edu.cn). We will review your request and provide additional data upon approval.
